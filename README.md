@@ -1,7 +1,6 @@
 ### Hi👋, I'm Dipesh
 
 - 🔭 I’m currently working on Deep Learning thesis/project
-- 🌱 I’m currently learning Different frameworks: Django
 - 📫 How to reach me: dshome.cse@gmail.com
 
 
