@@ -1,6 +1,7 @@
 ### Hi👋, I'm Dipesh
 
 - 🔭 I’m currently working on Deep Learning thesis/project
+- 🔭 I’m currently learning Full stack web development
 - 📫 How to reach me: dshome.cse@gmail.com
 
 
