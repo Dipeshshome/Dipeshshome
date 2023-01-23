@@ -1,6 +1,5 @@
 ### Hi👋, I'm Dipesh
 
-- 🔭 I’m currently working as an Analyst at Quantanite
 - 🔭 I’m currently working as a Software Engineer at Dot Bd Solutions
 - 📫 How to reach me: dshome.cse@gmail.com
 
