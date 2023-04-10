@@ -1,6 +1,7 @@
 ### Hi👋, I'm Dipesh
 
-- 🔭 I’m currently working as a Software Engineer at Dot Bd Solutions
+- 🔭 I’m currently working as a Software Engineer(AI) at Dot Bd Solutions
+- Currently working on Bengali content generation for a ecom. products
 - 📫 How to reach me: dshome.cse@gmail.com
 
 
