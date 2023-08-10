@@ -26,6 +26,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshshome)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipeshshome&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipeshshome&show_icons=true&count_private=true) 
 
-![Profile views](https://gpvc.arturio.dev/Dipeshshome)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dipeshshome&show_icons=true&locale=en" alt="ayush714" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dipeshshome&" alt="ayush714" /></p>
+
+![Profile views](https://gpvc.arturio.dev/Dipeshshome) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipeshshome&label=Profile%20views&color=0e75b6&style=flat" alt="Dipeshshome" /> </p>
