@@ -23,14 +23,8 @@
 
 <h3 align="left">Others:</h3>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshshome)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dipeshshome&show_icons=true&locale=en" alt="Dipeshshome" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dipeshshome&" alt="Dipeshshome" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipeshshome&label=Profile%20views&color=0e75b6&style=flat" alt="Dipeshshome" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dipeshshome" alt="Dipeshshome" /></a> </p>
