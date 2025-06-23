@@ -98,7 +98,7 @@ I'm a passionate **AI/ML Developer** and **Researcher** specializing in **Health
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshshome&layout=compact&theme=radical&hide_border=true)
 
-![Snake animation](https://github.com/Dipeshshome/Dipeshshome/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dipeshshome&theme=dark)
 
 </div>
 
