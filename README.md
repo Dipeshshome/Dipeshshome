@@ -39,7 +39,6 @@ I'm a passionate **AI/ML Developer** and **Researcher** specializing in **Health
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white)
-![Runpod](https://img.shields.io/badge/Runpod-1C3C3C?style=flat-square&logo=graphql&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -55,6 +54,9 @@ I'm a passionate **AI/ML Developer** and **Researcher** specializing in **Health
 - **Computer Vision:** Image Processing, Object Detection, Medical Imaging
 - **Data Analytics:** Statistical Analysis, Visualization, Business Intelligence
 - **Healthcare AI:** Medical Diagnosis, Treatment Optimization, Health Monitoring
+- **AI Chatbots & Conversational AI:** RAG Systems, Multi-domain Chatbots, LLM Integration
+- **Sector-Specific AI Solutions:** E-commerce AI, Educational Chatbots, Business Intelligence Bots
+- **Advanced Chatbot Architectures:** Retrieval-Augmented Generation, Context-Aware Systems, Multi-Agent Frameworks
 
 ## 🏆 Featured Projects
 
