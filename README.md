@@ -1,4 +1,4 @@
-# Hi there, I'm Dipesh Shome! 👋
+ <h3 align ="center" > Hi there, I'm Dipesh Shome! 👋 </h3>
 
 <div align="center">
   
