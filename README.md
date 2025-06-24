@@ -6,9 +6,6 @@
 ![Healthcare AI](https://img.shields.io/badge/Healthcare-AI%20Automation-green?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data-Science-orange?style=for-the-badge)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI/ML+Developer+%7C+Healthcare+%7C+AI+Automation+%7C+%7C+Data+Science" alt="Typing SVG" />
-</p>
 
 **🚀 Transforming Healthcare through AI Innovation | Computer Science Graduate | ML Researcher**
 
@@ -103,6 +100,8 @@ I'm a passionate **AI/ML Developer** and **Researcher** specializing in **Health
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshshome&layout=compact&theme=radical&hide_border=true)
 
 [![Dipesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dipeshshome&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Dipeshshome/github-readme-activity-graph)
+
+![snake animation](https://github.com/DIpeshshome/DIpeshshome/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
 
