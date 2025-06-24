@@ -6,6 +6,10 @@
 ![Healthcare AI](https://img.shields.io/badge/Healthcare-AI%20Automation-green?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data-Science-orange?style=for-the-badge)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI/ML+Developer+%7C+Healthcare+%7C+AI+Automation+%7C+%7C+Data+Science" alt="Typing SVG" />
+</p>
+
 **🚀 Transforming Healthcare through AI Innovation | Computer Science Graduate | ML Researcher**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-dipesh.herokuapp.com/)
