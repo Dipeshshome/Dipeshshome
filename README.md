@@ -101,7 +101,7 @@ I'm a passionate **AI/ML Developer** and **Researcher** specializing in **Health
 
 [![Dipesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dipeshshome&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Dipeshshome/github-readme-activity-graph)
 
-![snake animation](https://github.com/DIpeshshome/DIpeshshome/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Dipeshshome/DIpeshshome/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
 
