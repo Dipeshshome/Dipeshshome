@@ -2,9 +2,11 @@
 
 <div align="center">
   
-![AI/ML Developer](https://img.shields.io/badge/AI%2FML-Developer-blue?style=for-the-badge)
-![Healthcare AI](https://img.shields.io/badge/Healthcare-AI%20Automation-green?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data-Science-orange?style=for-the-badge)
+<p align="center">
+  <a href="https://github.com/Dipeshshome">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Healthcare+AI+Automation;Data+Science+Expert;Computer+Vision+Specialist;Deep+Learning+Researcher;Let's+Transform+Healthcare" alt="Typing SVV" />
+  </a>
+</p>
 
 
 **🚀 Transforming Healthcare through AI Innovation | Computer Science Graduate | ML Researcher**
