@@ -4,7 +4,7 @@
   
 <p align="center">
   <a href="https://github.com/Dipeshshome">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Healthcare+AI+Automation;Data+Science+Expert;Banking AI Chatbot;Computer+Vision+Specialist;Deep+Learning+Researcher;Let's+Transform+Healthcare" alt="Typing SVV" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Healthcare+AI+Automation;Data+Science+Expert;Banking+AI+Chatbot;Computer+Vision+Specialist;Deep+Learning+Researcher;Let's+Transform+Healthcare" alt="Typing SVV" />
   </a>
 </p>
 
