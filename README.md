@@ -65,7 +65,7 @@ I'm a passionate **AI/ML Developer** and **Researcher** specializing in **Health
 - **Data Analytics:** Statistical Analysis, Visualization, Business Intelligence
 - **Healthcare AI:** Medical Diagnosis, Treatment Optimization, Health Monitoring
 - **AI Chatbots & Conversational AI:** RAG Systems, Multi-domain Chatbots, LLM Integration
-- **Sector-Specific AI Solutions:** E-commerce AI, Educational Chatbots, Business Intelligence Bots
+- **Sector-Specific AI Solutions:** E-commerce AI, Fintech AI, Personalized  AI Assistant for Bank, Educational Chatbots, Business Intelligence Bots
 - **Advanced Chatbot Architectures:** Retrieval-Augmented Generation, Context-Aware Systems, Multi-Agent Frameworks
 
 ## 🏆 Featured Projects
