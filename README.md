@@ -28,10 +28,9 @@ I'm a passionate **AI/ML Developer** and **Researcher** specializing in **Health
 ## 🔬 Current Focus Areas
 
 - 🏥 **Healthcare AI Solutions** - Developing intelligent systems for medical diagnosis and treatment optimization
-- 🧠 **Healthcare AI Solutions** - Developing intelligent systems for medical diagnosis and treatment optimization
 - 🧠 **AI Chatbot** - AI Chatbot Integration with CRM & Database, Fintech, E-commerce, Healthcare
 - 📊 **Data Analytics** - Transforming complex datasets into actionable business insights
-- 🔍 **Computer Vision** - Implementing image recognition for medical imaging and quality assessment
+- 🔍 **Computer Vision & Deep Learning Research** - Implementing image recognition for medical imaging and quality assessment
 
 ## 🛠️ Technical Arsenal
 
