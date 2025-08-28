@@ -11,7 +11,7 @@
 
 **🚀 Transforming Healthcare through AI Innovation | Computer Science Graduate | ML Researcher**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-dipesh.herokuapp.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brainiac-ai-qqx0.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-shome-575854113/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dshome.cse@gmail.com)
 
@@ -142,7 +142,7 @@ I'm always interested in discussing:
 **Ready to build the future of healthcare AI together?**
 
 📧 **Email:** [dshome.cse@gmail.com](mailto:dshome.cse@gmail.com)  
-🌐 **Portfolio:** [View My Work](https://portfolio-dipesh.herokuapp.com/)  
+🌐 **Portfolio:** [View My Work](https://brainiac-ai-qqx0.onrender.com)
 💼 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/dipesh-shome-575854113/)
 
 ---
